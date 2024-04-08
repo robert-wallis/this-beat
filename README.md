@@ -67,7 +67,7 @@ Generally I'm also pretty pessimistic about AI and it's usefulness. For example 
 
 However the AI generated part, although it goes hard, needs lots of work.
 
-* The song cuts out at the 2 minute mark. I also ran the AI to continue the song but it didn't wrap up nicely.
+* The song cuts out at the 2 minute mark. I also ran the AI [to continue](https://app.suno.ai/song/c912984e-d789-48cb-832a-bd137ea54beb) the song but it [didn't wrap up nicely](https://app.suno.ai/song/08709b8a-299c-47bf-8e17-901136baac8b).
 * The instructions were to "build up and drop for the chorus", but it builds and drops the "I'm a senior dev" line. That's not what I asked.
 * It sounds like it's recording static along with the song.
 * The lead singer sounds like she's saying "node module" singular.
