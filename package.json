@@ -1,0 +1,18 @@
+{
+  "name": "this-beat",
+  "version": "0.1.0",
+  "description": "A song about being a JS dev.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robert-wallis/this-beat.git"
+  },
+  "keywords": [
+    "parody",
+    "joke",
+    "song",
+    "beat"
+  ],
+  "author": "Robert Wallis <smilingrob@gmail.com>",
+  "license": "BSD-2-Clause",
+  "homepage": "https://github.com/robert-wallis/this-beat"
+}
